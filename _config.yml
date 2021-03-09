@@ -21,7 +21,7 @@ linkedin_url: https://www.linkedin.com/in/liadav/
 #slack_url:
 twitter_url: https://twitter.com/liadav
 
-mail: liad@avrah.am
+mail: mailto:liad@avrah.am
 
 # Build settings
 markdown: kramdown
