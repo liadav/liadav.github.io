@@ -2,7 +2,7 @@
 title: Liad Avraham
 email: liad@avrah.am
 description: liadav
-baseurl: "/identity-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "liad.avrah.am" # the base hostname & protocol for your site
 
 # Identity
