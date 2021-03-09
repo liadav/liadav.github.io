@@ -10,15 +10,15 @@ your-name: Liad Avraham
 your-title: liadav
 
 # Social settings
-500px_url:
+#500px_url:
 facebook_url: https://www.facebook.com/liadav/
 github_url: https://github.com/liadav
-gitlab_url: 
-googleplus_url: 
+#gitlab_url: 
+#googleplus_url: 
 instagram_url: https://www.instagram.com/liadav6/
 linkedin_url: https://www.linkedin.com/in/liadav/
-pinterest_url:
-slack_url:
+#pinterest_url:
+#slack_url:
 twitter_url: https://twitter.com/liadav
 
 # Build settings
